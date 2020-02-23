@@ -56,7 +56,9 @@
       <outline text="Yet Another Swift Blog" type="rss" xmlUrl="https://www.vadimbulavin.com/feed.xml" htmlUrl="https://www.vadimbulavin.com/" description=""/>
     </outline>
     <outline text="Math">
+      <outline text="bkase.dev" type="rss" xmlUrl="https://bkase.dev/static/blog-rss.xml" htmlUrl="https://bkase.dev/" description="The ramblings of Brandon Kase"/>
       <outline text="Math ∩ Programming" type="rss" xmlUrl="https://jeremykun.com/feed/" htmlUrl="https://jeremykun.com" description=""/>
+      <outline text="Tanya Khovanova's Math Blog" type="rss" xmlUrl="https://blog.tanyakhovanova.com/feed/" htmlUrl="https://blog.tanyakhovanova.com/" description="Mathematics, applications of mathematics to life in general, and my life as a mathematician."/>
     </outline>
     <outline text="Uncategorized">
       <outline text="Big Nerd Ranch" type="rss" xmlUrl="https://www.bignerdranch.com/feed/" htmlUrl="https://www.bignerdranch.com/" description="Based in Atlanta, GA, Big Nerd Ranch builds custom software, teaches immersive development and design bootcamps, and writes best-selling programming guides."/>
