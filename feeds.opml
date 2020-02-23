@@ -58,5 +58,13 @@
       <outline text="SoundCloud" type="rss" xmlUrl="https://developers.soundcloud.com/blog/blog.rss" htmlUrl="https://developers.soundcloud.com/blog" description="SoundCloud's developer blog."/>
       <outline text="spaceraccoon.dev" type="rss" xmlUrl="https://spaceraccoon.dev/feed/" htmlUrl="https://spaceraccoon.dev/" description=""/>
     </outline>
+    <outline text="Webcomic">
+      <outline text="Abstruse Goose" type="rss" xmlUrl="https://abstrusegoose.com/feed.xml" htmlUrl="https://abstrusegoose.com/" description="awesome webcomic"/>
+      <outline text="bouletcorp" type="rss" xmlUrl="http://www.bouletcorp.com/feed/" htmlUrl="http://www.bouletcorp.com/" description="le parpaing de la fraise sur vos tartelettes"/>
+      <outline text="CommitStrip" type="rss" xmlUrl="http://www.commitstrip.com/en/feed/" htmlUrl="http://www.commitstrip.com/" description="The blog relating the daily life of web agency developers"/>
+      <outline text="MonkeyUser" type="rss" xmlUrl="https://www.monkeyuser.com/feed.xml" htmlUrl="https://www.monkeyuser.com/" description=""/>
+      <outline text="turnoff.us" type="rss" xmlUrl="http://turnoff.us/feed.xml" htmlUrl="http://turnoff.us/" description="turnoff.us is a geek comic site. Comics about Programming Languages, Web, Cloud, Linux, etc."/>
+      <outline text="xkcd" type="rss" xmlUrl="https://xkcd.com/atom.xml" htmlUrl="https://xkcd.com/" description=""/>
+    </outline>
   </body>
 </opml>
