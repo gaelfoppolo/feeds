@@ -2,13 +2,14 @@
 <opml version="2.0">
   <head>
     <title>Gaël Foppolo's RSS</title>
-    <dateCreated>Mon, 13 Apr 2020 11:54:46</dateCreated>
+    <dateCreated>Fri, 14 Aug 2020 14:54:19</dateCreated>
   </head>
   <body>
     <outline text="iOS">
       <outline text="/var/log/journal" type="rss" xmlUrl="http://gaelfoppolo.com/feed.xml" htmlUrl="https://www.gaelfoppolo.com/" description=""/>
       <outline text="Airspeed Velocity" type="rss" xmlUrl="https://airspeedvelocity.net/feed/" htmlUrl="https://airspeedvelocity.net" description=""/>
       <outline text="Alexey Naumov" type="rss" xmlUrl="https://nalexn.github.io/feed.xml" htmlUrl="https://nalexn.github.io/" description="iOS development best practices, software architecture design, functional reactive programming, Swift, SwiftUI, Combine"/>
+      <outline text="Alexito's World" type="rss" xmlUrl="https://alejandromp.com/feed.rss" htmlUrl="https://alejandromp.com/" description="A world of coding 💻, by Alejandro Martinez"/>
       <outline text="Andrew King" type="rss" xmlUrl="https://andrewking.ca/feed/" htmlUrl="https://andrewking.ca/" description=""/>
       <outline text="Andy Ibanez" type="rss" xmlUrl="https://www.andyibanez.com/index.xml" htmlUrl="https://www.andyibanez.com/" description=""/>
       <outline text="Apple Machine Learning Journal" type="rss" xmlUrl="https://machinelearning.apple.com/feed.xml" htmlUrl="https://machinelearning.apple.com/" description="Building innovative products for millions of people around the world."/>
@@ -39,7 +40,8 @@
       <outline text="Jesse Squires" type="rss" xmlUrl="https://www.jessesquires.com/feed.xml" htmlUrl="https://www.jessesquires.com/feed.xml" description=""/>
       <outline text="Jullian Mercier" type="rss" xmlUrl="http://jullianmercier.com/feed.xml" htmlUrl="http://jullianmercier.com" description=""/>
       <outline text="Khanlou" type="rss" xmlUrl="http://khanlou.com/feed" htmlUrl="http://khanlou.com/" description=""/>
-      <outline text="MacKuba.eu" type="rss" xmlUrl="https://feeds.feedburner.com/psionides-eu" htmlUrl="https://mackuba.eu" description=""/>
+      <outline text="MacKuba — WWDC 2020 Notes" type="rss" xmlUrl="https://mackuba.eu/feed-notes.xml" htmlUrl="https://mackuba.eu/" description="Kuba Suder's blog on Mac &amp; iOS development"/>
+      <outline text="MacKuba.eu" type="rss" xmlUrl="https://mackuba.eu/feed.xml" htmlUrl="https://mackuba.eu" description=""/>
       <outline text="Majid’s blog" type="rss" xmlUrl="https://swiftwithmajid.com/feed.xml" htmlUrl="https://swiftwithmajid.com/" description=""/>
       <outline text="Marcin Krzyżanowski" type="rss" xmlUrl="https://blog.krzyzanowskim.com/rss/" htmlUrl="https://blog.krzyzanowskim.com/" description="Fix it"/>
       <outline text="Morning SwiftUI" type="rss" xmlUrl="https://www.morningswiftui.com/blog?format=rss" htmlUrl="https://www.morningswiftui.com/" description=""/>
@@ -47,27 +49,33 @@
       <outline text="NSHipster" type="rss" xmlUrl="https://nshipster.com/feed.xml" htmlUrl="https://nshipster.com/" description=""/>
       <outline text="objc.io" type="rss" xmlUrl="http://www.objc.io/feed.xml" htmlUrl="http://www.objc.io" description=""/>
       <outline text="Ole Begemann" type="rss" xmlUrl="https://oleb.net/blog/atom.xml" htmlUrl="https://oleb.net/blog/" description=""/>
+      <outline text="On Swift Wings" type="rss" xmlUrl="https://www.onswiftwings.com/index.xml" htmlUrl="https://www.onswiftwings.com/" description="Recent content on On Swift Wings"/>
       <outline text="Ordinary Coding" type="rss" xmlUrl="https://ordinarycoding.com/feed.rss" htmlUrl="https://ordinarycoding.com/" description="Just another blog about programming - Swift, iOS, macOS, tvOS and watchOS. Also, a Flutter at times."/>
       <outline text="Over Engineering" type="rss" xmlUrl="https://medium.com/feed/over-engineering/tagged/ios" htmlUrl="https://medium.com/over-engineering/tagged/ios?source=rss----efddcdaa36a--ios" description="Latest stories tagged with iOS in Over Engineering on Medium"/>
       <outline text="Patrick Balestra" type="rss" xmlUrl="https://patrickbalestra.com/feed.xml" htmlUrl="https://balestrapatrick.github.io/" description="iOS Engineer at Spotify, Conference organizer, OSS contributor."/>
       <outline text="Pavel Zak’s dev blog" type="rss" xmlUrl="https://nerdyak.tech/feed.xml" htmlUrl="http://izakpavel.github.io/" description="Yet another dev blog"/>
       <outline text="Pierre Felgines" type="rss" xmlUrl="https://felginep.github.io/feed.xml" htmlUrl="https://felginep.github.io/" description="A blog dedicated to iOS development."/>
       <outline text="Point-Free Videos" type="rss" xmlUrl="https://www.pointfree.co/feed/episodes.xml" htmlUrl="https://www.pointfree.co/" description="Point-Free is a video series about functional programming and the Swift programming language. Each episode covers a topic that may seem complex and academic at first, but turns out to be quite simple. At the end of each episode we’ll ask “what’s the point?!”, so that we can bring the concepts back down to earth and show how these ideas can improve the quality of your code today."/>
+      <outline text="Ram Shandilya" type="rss" xmlUrl="https://www.ramshandilya.com/feed.rss" htmlUrl="https://ramshandilya.com/" description="Perspectives on design and engineering. Expect content on modern iOS software engineering."/>
       <outline text="Rambo.codes" type="rss" xmlUrl="https://rambo.codes/feed.xml" htmlUrl="https://rambo.codes/" description=""/>
       <outline text="Rony's blog" type="rss" xmlUrl="https://www.fadel.io/blog/index.xml" htmlUrl="https://www.fadel.io/blog/" description="Recent content on Rony's blog"/>
       <outline text="rx_marin" type="rss" xmlUrl="http://rx-marin.com/index.xml" htmlUrl="http://rx-marin.com/" description=""/>
       <outline text="Sarun" type="rss" xmlUrl="https://sarunw.com/feed.xml" htmlUrl="https://sarunw.com/" description="I will share my working processes, tip and tricks, tools, and problems I found along the way."/>
+      <outline text="Shawn Baek" type="rss" xmlUrl="https://www.shawnbaek.com/posts?format=rss" htmlUrl="https://www.shawnbaek.com/" description=""/>
       <outline text="Swift by Sundell" type="rss" xmlUrl="https://www.swiftbysundell.com/rss" htmlUrl="https://www.swiftbysundell.com" description=""/>
       <outline text="Swift in Depth" type="rss" xmlUrl="https://swiftindepth.com/feed.xml" htmlUrl="https://www.swiftindepth.com" description=""/>
       <outline text="Swiftjective-C" type="rss" xmlUrl="https://swiftjectivec.com/feed.xml" htmlUrl="https://swiftjectivec.com/" description=""/>
       <outline text="SwiftLee" type="rss" xmlUrl="https://www.avanderlee.com/feed/" htmlUrl="https://www.avanderlee.com/" description="A weekly blog about Swift, iOS and Xcode Tips and Tricks"/>
       <outline text="SwiftRocks" type="rss" xmlUrl="https://swiftrocks.com/rss.xml" htmlUrl="https://swiftrocks.com" description=""/>
+      <outline text="Syrion" type="rss" xmlUrl="https://syrion.me/feed/" htmlUrl="https://syrion.me/" description=""/>
       <outline text="The SwiftUI Lab" type="rss" xmlUrl="https://swiftui-lab.com/feed/" htmlUrl="https://swiftui-lab.com/" description="When the documentation is missing, we experiment."/>
       <outline text="The Syndicate" type="rss" xmlUrl="https://martiancraft.com/feed.xml" htmlUrl="https://martiancraft.com/" description="A weekly publication on topics that matter covering interface design, software development, and business strategy. Features original writing, design and illustration from MartianCraft."/>
+      <outline text="Tim Roesner’s Blog" type="rss" xmlUrl="https://blog.timroesner.com/feed.xml" htmlUrl="https://blog.timroesner.com/" description="Welcome to my blog"/>
       <outline text="Tomasz Szulc" type="rss" xmlUrl="http://szulctomasz.com/programming-blog/index.xml" htmlUrl="http://szulctomasz.com/programming-blog/" description=""/>
       <outline text="tonsky.me" type="rss" xmlUrl="https://tonsky.me/blog/atom.xml" htmlUrl="https://tonsky.me/" description="Nikita Prokopov’s blog"/>
       <outline text="TrozWare" type="rss" xmlUrl="https://troz.net/index.xml" htmlUrl="https://troz.net/" description="Recent content on TrozWare"/>
       <outline text="Use Your Loaf" type="rss" xmlUrl="https://useyourloaf.com/blog/rss.xml" htmlUrl="https://useyourloaf.com/blog/" description=""/>
+      <outline text="Vivek Seth" type="rss" xmlUrl="https://vivekseth.com/index.xml" htmlUrl="https://vivekseth.com/" description="Recent content on Vivek Seth"/>
       <outline text="Vojta Stavik" type="rss" xmlUrl="https://vojtastavik.com/atom.xml" htmlUrl="https://vojtastavik.com/" description=""/>
       <outline text="Yet Another Swift Blog" type="rss" xmlUrl="https://www.vadimbulavin.com/feed.xml" htmlUrl="https://www.vadimbulavin.com/" description=""/>
     </outline>
@@ -77,7 +85,11 @@
       <outline text="Tanya Khovanova's Math Blog" type="rss" xmlUrl="https://blog.tanyakhovanova.com/feed/" htmlUrl="https://blog.tanyakhovanova.com/" description="Mathematics, applications of mathematics to life in general, and my life as a mathematician."/>
     </outline>
     <outline text="Security">
+      <outline text="AeonLucid" type="rss" xmlUrl="https://aeonlucid.com/feed.xml" htmlUrl="https://aeonlucid.com/" description="Just a developer."/>
+      <outline text="Allyson O'Malley" type="rss" xmlUrl="https://www.allysonomalley.com/feed/" htmlUrl="https://www.allysonomalley.com/" description="iOS App Security, Penetration Testing, and Development"/>
+      <outline text="Blogs on @kov4l3nko" type="rss" xmlUrl="https://kov4l3nko.github.io/blog/index.xml" htmlUrl="https://kov4l3nko.github.io/blog/" description="Recent content in Blogs on @kov4l3nko"/>
       <outline text="https://wojciechregula.blog/" type="rss" xmlUrl="https://wojciechregula.blog/" htmlUrl="" description=""/>
+      <outline text="Offensive Research" type="rss" xmlUrl="https://philkeeble.com/feed.xml" htmlUrl="https://philkeeble.com/" description="Offensive Security Research, Blogs, Tutorials"/>
     </outline>
     <outline text="Uncategorized">
       <outline text="Big Nerd Ranch" type="rss" xmlUrl="https://www.bignerdranch.com/feed/" htmlUrl="https://www.bignerdranch.com/" description="Based in Atlanta, GA, Big Nerd Ranch builds custom software, teaches immersive development and design bootcamps, and writes best-selling programming guides."/>
